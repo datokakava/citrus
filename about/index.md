@@ -14,4 +14,4 @@ We are part of Shokkin Group International, a network of organizations with the 
 
 
      
-[Home](http://citrus.org.ge){: .btn}
+[Home](/){: .btn}
